@@ -1,1 +1,0 @@
-# postautomator-data-deletion
